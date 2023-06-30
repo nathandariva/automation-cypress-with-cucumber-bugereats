@@ -9,8 +9,8 @@
 - 1º: clonar o projeto do github
 - 2º: executar o comando "npm install" dentro da pasta clonada, para installar todas as dependências do projeto
 
+
 ## Variáveis de Ambiente - Caso tenha conteúdos sensiveis (não é o caso desse projeto)
- - Nesses testes temos conteúdos sensiveis, então a necessidade de criar as variaveis de ambiente
  - Na raiz do projeto, criar o arquivo com o nome: cypress.env.json;
 
 ## Exemplo
