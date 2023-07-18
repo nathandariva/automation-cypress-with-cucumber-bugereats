@@ -2,5 +2,8 @@
   "dependencies": {
     "chance": "^1.1.11",
     "cypress": "^12.16.0"
+  },
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^4.3.1"
   }
 }
